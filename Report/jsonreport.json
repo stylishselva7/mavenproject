@@ -1,0 +1,83 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "The user has to read the story in application",
+        "description": "",
+        "id": "to-read-the-story-of-bistrobites-application;the-user-has-to-read-the-story-in-application",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3479995000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To launch the chrome browser and maximise window",
+            "match": {
+              "location": "scenario6.to_launch_the_chrome_browser_and_maximise_window()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 34560236900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To launch the url of bistrobites application",
+            "match": {
+              "location": "scenario6.to_launch_the_url_of_bistrobites_application()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7627448600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "The user has to click the our story option",
+            "match": {
+              "location": "scenario6.the_user_has_to_click_the_our_story_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 538000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To check whether navigate home page or not",
+            "match": {
+              "location": "scenario6.to_check_whether_navigate_home_page_or_not()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 285728800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "To close the browser",
+            "match": {
+              "location": "scenario6.to_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To read the story of bistrobites application",
+    "description": "",
+    "id": "to-read-the-story-of-bistrobites-application",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Scenario 6.feature",
+    "tags": []
+  }
+]

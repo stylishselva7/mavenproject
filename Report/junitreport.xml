@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="45.959321">
+    <testcase classname="To read the story of bistrobites application" name="The user has to read the story in application" time="45.959321">
+        <system-out><![CDATA[Given To launch the chrome browser and maximise window......................passed
+When To launch the url of bistrobites application...........................passed
+And The user has to click the our story option..............................passed
+And To check whether navigate home page or not..............................passed
+Then To close the browser...................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
